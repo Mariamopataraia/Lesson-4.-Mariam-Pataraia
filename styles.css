@@ -1,0 +1,40 @@
+header{
+	background: #0020F4;
+	width: 1920px;
+	height: 388px;
+}
+.logo{
+	position: absolute;
+	width: 86px;
+	margin-right: 1407px;
+}
+a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+nav{
+	position: absolute; 
+	text-align: center;
+	margin: auto;
+	width: 1475px;
+	height: 91px;
+}
+nav ul{
+	list-style-type: none;
+}
+nav li{
+	display: inline;
+	margin-left:70px;
+}
+.active{
+	color: #171717;
+	background-color: #FFFFFF;
+}
+
+#mainimage{
+	width: 1195px;
+	top: -70px;
+	position: relative;
+	left: 362px;
+	align-content: center;
+}
