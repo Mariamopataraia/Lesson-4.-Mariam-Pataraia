@@ -81,20 +81,22 @@ button{
 	height: 55px;
 	border-style: none;
 	margin-top: 58px;
+	margin-bottom: 198px;
 }
 footer{
 	background: #0020F4;
-	height: px;
+	height: 223px;
 }
 .footerpara{
 	color: #FFFFFF;
 	font-size: 16px;
 	padding-left: 240px;
+	padding-top: 84px;
 	text-align: left;
 }
 .footerdiv{
-	text-align: right;
 	color: #FFFFFF;
 	font-size: 16px;
-	padding-left: 1345;
+	padding-left: 1345px;
+	margin-top: -84px;
 }
